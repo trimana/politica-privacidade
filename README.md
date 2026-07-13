@@ -1,21 +1,142 @@
-Cláusula de Isenção e Limitação de Responsabilidade
-1. Natureza da Ferramenta:
-O Bombeiro Civil é uma ferramenta digital destinada exclusivamente a auxiliar a organização e a geração de documentos técnicos por profissionais da área de segurança contra incêndio e emergências. O aplicativo não substitui o conhecimento técnico, a responsabilidade profissional, nem as normas vigentes do Corpo de Bombeiros, ABNT ou legislações municipais/estaduais.
-2. Responsabilidade pelas Informações:
-Toda e qualquer informação inserida no aplicativo, bem como a veracidade dos dados contidos nos documentos gerados (PDFs), é de responsabilidade única e exclusiva do Usuário. O desenvolvedor não realiza conferência, validação ou auditoria técnica sobre o conteúdo gerado.
-3. Inexistência de Vínculo com Órgãos Oficiais:
-Este aplicativo não possui vínculo com o Corpo de Bombeiros, Defesa Civil ou qualquer órgão governamental. Ele não deve ser utilizado como canal de acionamento de emergências (como o 193).
-4. Limitação de Danos:
-Em nenhuma circunstância o Desenvolvedor será responsabilizado por:
-•	Multas, interdições ou sanções administrativas aplicadas a estabelecimentos onde o Usuário atua;
-•	Falhas em vistorias ou reprovações de Planos de Prevenção (PPCI/PSCIP);
-•	Erros de preenchimento que levem a interpretações equivocadas em situações de emergência;
-•	Perda de dados decorrente de falhas no dispositivo, desinstalação do app ou falta de backup manual por parte do usuário.
-5. Uso Profissional:
-Ao utilizar este aplicativo, o usuário declara estar legalmente habilitado para o exercício da função de Bombeiro Civil ou área correlata, assumindo total responsabilidade civil e criminal por quaisquer atos decorrentes do uso das informações aqui processadas.
+Política de Privacidade – COPUN
+Última atualização: 13 de julho de 2026
+Esta Política de Privacidade descreve como o aplicativo COPUN trata os dados dos usuários.
+Nosso compromisso é proteger sua privacidade e tratar seus dados de forma transparente, em conformidade com a Lei nº 13.709/2018 (Lei Geral de Proteção de Dados – LGPD).
+________________________________________
+1. Quem Somos
+O aplicativo COPUN é desenvolvido e operado de forma independente por Marcio Mana.
+Em caso de dúvidas sobre privacidade, tratamento de dados ou suporte técnico, entre em contato:
+E-mail: trimarcio@gmail.com
+________________________________________
+2. Quais Dados Podem Ser Tratados
+Dependendo das funcionalidades utilizadas, o aplicativo poderá tratar as seguintes informações:
+Dados informados pelo usuário
+•	Nome;
+•	CPF, registro profissional ou identificações equivalentes;
+•	Informações inseridas em formulários;
+•	Registros de inspeções;
+•	Ocorrências;
+•	Treinamentos;
+•	Checklists;
+•	Fotografias adicionadas pelo usuário;
+•	Assinaturas digitais;
+•	Demais informações necessárias para geração dos documentos.
+Dados Técnicos
+O aplicativo poderá solicitar permissões para:
+•	Armazenamento de arquivos;
+•	Acesso à câmera;
+•	Acesso à galeria de fotos;
+•	Localização (quando utilizada pelo usuário);
+•	Acesso à internet para sincronização e atualização de dados.
+Cada permissão é utilizada exclusivamente para o funcionamento das respectivas funcionalidades do aplicativo.
+________________________________________
+3. Finalidade do Tratamento
+Os dados são utilizados exclusivamente para:
+•	Registrar atividades operacionais;
+•	Gerar documentos e relatórios em PDF;
+•	Organizar históricos;
+•	Controlar inventario de equipamentos;
+•	Registrar treinamentos;
+•	Registrar inspeções;
+•	Permitir backup e restauração dos dados;
+•	Sincronizar informações entre dispositivos, quando essa funcionalidade for utilizada pelo usuário;
+•	Melhorar o funcionamento do aplicativo.
+Em hipótese alguma, não comercializamos dados pessoais.
+________________________________________
+4. Armazenamento dos Dados
+O COPUN utiliza armazenamento local no dispositivo do usuário como forma principal de funcionamento.
+Quando o usuário optar pela sincronização ou backup em nuvem, os dados poderão ser armazenados em serviços contratados para essa finalidade, exclusivamente para permitir sua recuperação e sincronização.
+O desenvolvedor não acessa os dados pessoais armazenados pelo usuário, salvo quando isso for indispensável para atendimento de solicitação de suporte técnico realizada pelo próprio usuário ou quando houver obrigação legal.
+________________________________________
+5. Compartilhamento de Dados
+Os dados não são vendidos, alugados ou compartilhados para fins comerciais.
+O compartilhamento poderá ocorrer apenas quando o usuário do aplicativo enviar para outras pessoas quando:
+•	Mediante ação voluntária do próprio usuário (por exemplo, ao compartilhar um PDF);
+•	Para utilização de serviços necessários ao funcionamento do aplicativo, como sincronização em nuvem;
+•	Quando exigido por lei ou por decisão de autoridade competente.
+________________________________________
+6. Base Legal
+O tratamento de dados pessoais ocorre com fundamento nas hipóteses previstas na LGPD, especialmente:
+•	Execução do contrato de uso do aplicativo;
+•	Consentimento do usuário, quando aplicável;
+•	Cumprimento de obrigação legal;
+•	Legítimo interesse para manutenção, segurança e melhoria do serviço.
+________________________________________
+7. Segurança das Informações
+São adotadas medidas técnicas e administrativas compatíveis para proteger os dados contra acesso não autorizado, perda, alteração ou divulgação indevida.
+Embora sejam empregados esforços para garantir a segurança das informações, nenhum sistema é completamente imune a riscos inerentes ao ambiente digital.
+________________________________________
+8. Retenção dos Dados
+Os dados permanecem armazenados enquanto forem necessários para utilização do aplicativo ou até que sejam excluídos pelo usuário.
+Quando os dados estiverem armazenados apenas localmente, sua exclusão ocorrerá mediante remoção manual dos registros, limpeza dos dados do aplicativo ou desinstalação.
+Quando houver sincronização em nuvem, os dados permanecerão armazenados até sua exclusão pelo usuário ou conforme as políticas aplicáveis ao serviço utilizado.
+________________________________________
+9. Direitos do Titular
+Nos termos da LGPD, o usuário poderá:
+•	Acessar seus dados;
+•	Corrigir informações incorretas;
+•	Atualizar seus registros;
+•	Solicitar a exclusão dos dados quando aplicável;
+•	Solicitar informações sobre o tratamento realizado;
+•	Revogar consentimentos eventualmente concedidos.
+Como a maior parte das informações permanece sob controle do próprio usuário, esses direitos podem ser exercidos diretamente dentro do aplicativo.
+________________________________________
+10. Serviços de Terceiros
+O aplicativo poderá utilizar serviços de terceiros necessários ao seu funcionamento, incluindo:
+•	Google Play;
+•	Google Play Billing;
+•	Firebase;
+•	Serviços de autenticação;
+•	Serviços de armazenamento em nuvem;
+•	Serviços de compartilhamento de arquivos.
+Cada um desses serviços possui suas próprias Políticas de Privacidade.
+________________________________________
+11. Crianças e Adolescentes
+O COPUN destina-se ao uso profissional e não é direcionado a menores de 18 anos.
+________________________________________
+12. Alterações desta Política
+Esta Política poderá ser atualizada periodicamente para refletir alterações legais, técnicas ou operacionais.
+A versão mais recente estará sempre disponível aos usuários e substituirá as versões anteriores.
+________________________________________
+13. Contato
+Em caso de dúvidas sobre esta Política de Privacidade ou sobre o tratamento de dados pessoais, entre em contato:
+Marcio Mana
+E-mail: trimarcio@gmail.com
 
 ________________________________________
-Perguntas Frequentes (FAQ)
+Cláusula de Isenção e Limitação de Responsabilidade:
+
+1. Finalidade do Aplicativo
+O COPUN é uma ferramenta de apoio destinada à organização e digitalização de atividades operacionais relacionadas à prevenção e combate a incêndios, inspeções, registros técnicos, controle de equipamentos, treinamentos, ocorrências e demais rotinas profissionais.
+O aplicativo tem como objetivo facilitar o registro, armazenamento e geração de documentos digitais, não substituindo a análise técnica, o julgamento profissional ou o cumprimento das normas legais aplicáveis.
+2. Responsabilidade pelas Informações
+Todas as informações inseridas no aplicativo são de inteira responsabilidade do usuário.
+O desenvolvedor não realiza conferência, validação, auditoria técnica ou certificação da veracidade dos dados registrados nem do conteúdo dos documentos gerados.
+3. Responsabilidade pelo Uso
+O usuário é responsável por utilizar o aplicativo de forma diligente e em conformidade com a legislação, normas técnicas e procedimentos internos da empresa ou instituição em que atua.
+As decisões profissionais tomadas com base nas informações registradas permanecem sob responsabilidade exclusiva do usuário.
+4. Ausência de Vinculação Institucional
+O COPUN não possui vínculo, credenciamento, homologação ou autorização do Corpo de Bombeiros Militar, Defesa Civil, órgãos governamentais ou qualquer entidade pública.
+O aplicativo não constitui canal oficial para comunicação de emergências, não substitui sistemas oficiais e não deve ser utilizado para acionar serviços de emergência, como o telefone 193.
+5. Limitação de Responsabilidade
+Na máxima extensão permitida pela legislação aplicável, o desenvolvedor não será responsável por danos decorrentes de:
+•	Informações incorretas, incompletas ou desatualizadas inseridas pelo usuário;
+•	Utilização inadequada do aplicativo;
+•	Falhas decorrentes do dispositivo do usuário, perda, roubo ou substituição do aparelho;
+•	Exclusão do aplicativo ou de seus dados locais sem realização de backup;
+•	Indisponibilidade de serviços de terceiros, incluindo Google Play, serviços de e-mail, armazenamento em nuvem ou provedores de internet;
+•	Interrupções causadas por força maior, falhas de energia, ataques cibernéticos ou problemas de infraestrutura fora do controle do desenvolvedor.
+Nada nesta cláusula limita direitos do consumidor previstos na legislação brasileira nem exclui responsabilidade nos casos em que ela seja legalmente obrigatória.
+6. Uso Profissional
+O usuário declara ser responsável por verificar se possui habilitação, treinamento ou autorização necessária para exercer suas atividades profissionais, quando exigidos pela legislação ou por normas internas de sua organização.
+O uso do aplicativo não substitui formação profissional, certificações obrigatórias, treinamentos ou orientações emitidas por órgãos competentes.
+
+
+________________________________________
+
+Perguntas Frequentes (FAQ):
+
+
 1. Meus dados estão seguros? Onde eles ficam salvos?
 Sim. O Bombeiro Civil funciona de forma local. Isso significa que todas as informações que você digita ficam armazenadas exclusivamente na memória do seu próprio celular. Nós não temos acesso aos seus relatórios, senhas ou dados pessoais.
 2. O aplicativo funciona sem internet?
@@ -30,45 +151,95 @@ Sim. Enquanto o registro estiver salvo na lista de históricos do app, você pod
 Não. Este app é uma ferramenta de apoio para a rotina do Bombeiro Civil. Documentos oficiais e protocolos de vistoria devem seguir as normas da sua corporação e legislação estadual vigente.
 7. Encontrei um erro ou tenho uma sugestão de melhoria, como falo com vocês?
 Adoramos receber feedback! Você pode enviar um e-mail para trimarcio@gmail.com. Como somos uma equipe focada em desenvolvimento, responderemos o mais breve possível.
-________________________________________
-Contrato de Licença de Usuário Final (EULA)
-1. Concessão de Licença:
-O desenvolvedor Marcio Mana concede a você uma licença limitada, não exclusiva, intransferível e revogável para baixar, instalar e utilizar o aplicativo Bombeiro Civil exclusivamente para fins profissionais ou pessoais, de acordo com estes termos.
-2. Restrições de Uso:
-Você concorda em não:
-•	Copiar, modificar, adaptar ou criar obras derivadas do aplicativo;
-•	Fazer engenharia reversa, descompilar ou tentar extrair o código-fonte;
-•	Alugar, arrendar, emprestar, vender ou redistribuir a licença deste aplicativo para terceiros;
-•	Remover avisos de direitos autorais ou marcas registradas presentes no app ou nos PDFs gerados.
-3. Propriedade Intelectual:
-O aplicativo, incluindo sua interface gráfica, design, logotipos e código-fonte, é de propriedade exclusiva de Marcio Mana e está protegido pelas leis de direitos autorais e propriedade intelectual do Brasil. Esta licença não concede a você nenhum direito de propriedade sobre o software.
-4. Coleta de Dados e Privacidade:
-Conforme detalhado em nossa Política de Privacidade, este aplicativo processa dados localmente em seu dispositivo. O desenvolvedor não tem acesso aos documentos gerados por você. A responsabilidade por manter o backup desses arquivos é inteiramente do usuário.
-5. Término da Licença:
-Esta licença permanece em vigor até que seja rescindida por você ou pelo desenvolvedor. Seus direitos sob esta licença terminarão automaticamente, sem aviso prévio, se você descumprir qualquer termo deste contrato. Após a rescisão, você deverá interromper todo o uso do aplicativo e excluí-lo de seus dispositivos.
-6. Limitação de Garantias:
-O software é fornecido "no estado em que se encontra" (as is), sem garantias de que será livre de erros ou interrupções. O desenvolvedor não garante que o aplicativo atenderá a todos os requisitos específicos da sua unidade de trabalho ou corporação.
+8. O aplicativo recebe atualizações?
+Sim. O COPUN pode receber atualizações para correção de falhas, melhorias de desempenho, novos recursos e adequações à legislação.
 
 ________________________________________
-Política de Privacidade – Bombeiro Civil
-Esta Política de Privacidade descreve como o aplicativo Bombeiro Cvil lida com as informações dos usuários. Nosso compromisso é com a transparência e a proteção de dados, em conformidade com a Lei Geral de Proteção de Dados (LGPD).
-1. Quem Somos
-Este aplicativo, Bombeiro Cvil, é desenvolvido e operado de forma independente por Marcio Mana. Para questões sobre privacidade ou suporte, entre em contato pelo e-mail: trimarcio@gmail.com
-2. Dados que Coletamos
-O aplicativo processa informações necessárias para a geração de documentos de bombeiro civil, como:
-•	Dados de Cadastro: Nome, CPF/Registro, ou outras informações inseridas por você nos formulários.
-•	Dados Técnicos: O app pode solicitar permissões de armazenamento para salvar os arquivos gerados.
-•	Localização (opcional): Se utilizada, serve apenas para preencher campos de endereço no documento em tempo real.
-•	Importante: Todos esses dados são processados exclusivamente no seu dispositivo.
-3. Para que usamos (Finalidade)
-A única finalidade da coleta é a geração e exportação de documentos técnicos (PDF) para auxiliar na rotina do bombeiro civil.
-•	Zero Transmissão: O desenvolvedor não coleta, não visualiza e não armazena nenhuma informação inserida no app.
-•	Autonomia do Usuário: O envio de qualquer documento para terceiros (via WhatsApp, E-mail, etc.) é uma ação manual e deliberada feita exclusivamente pelo usuário através do botão "Compartilhar".
-4. Armazenamento
-•	Localização dos Dados: As informações ficam salvas apenas no banco de dados local do seu próprio smartphone.
-•	Nuvem: Não utilizamos servidores externos ou serviços de nuvem para backup automático.
-•	Retenção: Os dados permanecem no aparelho enquanto o aplicativo estiver instalado ou até que você os apague manualmente. 
-5. Direitos do Usuário (LGPD)
-Como o app atua apenas no Brasil, garantimos os direitos previstos na LGPD:
-•	Controle Total: Você pode editar ou excluir qualquer informação diretamente nas telas do aplicativo.
-•	Exclusão Permanente: Ao desinstalar o aplicativo ou limpar o cache/dados nas configurações do Android, todos os registros guardados localmente serão apagados permanentemente, sem possibilidade de recuperação por nossa parte.
+Contrato de Licença de Usuário Final (EULA) – COPUN
+Última atualização: 13 de julho de 2026
+
+
+Este Contrato de Licença de Usuário Final ("EULA") estabelece os termos e condições para utilização do aplicativo COPUN. Ao instalar, acessar ou utilizar o aplicativo, o usuário declara que leu, compreendeu e concorda com os termos deste contrato.
+1. Concessão de Licença
+O desenvolvedor Marcio Mana concede ao usuário uma licença limitada, pessoal, não exclusiva, intransferível, revogável e não sublicenciável para instalar e utilizar o aplicativo COPUN em dispositivos compatíveis, exclusivamente para uso profissional ou pessoal, em conformidade com este contrato.
+A propriedade intelectual do aplicativo permanece integralmente pertencente ao desenvolvedor.
+________________________________________
+2. Finalidade do Aplicativo
+O COPUN é uma ferramenta destinada ao apoio das atividades operacionais, administrativas e técnicas relacionadas à prevenção e combate a incêndios, inspeções, treinamentos, controle de equipamentos, registros de ocorrências, geração de documentos e demais rotinas profissionais.
+O aplicativo não substitui a formação técnica, o julgamento profissional, procedimentos operacionais, normas legais ou determinações de órgãos competentes.
+________________________________________
+3. Restrições de Uso
+É proibido ao usuário:
+•	Copiar, reproduzir ou distribuir o aplicativo sem autorização;
+•	Modificar, adaptar ou criar obras derivadas;
+•	Realizar engenharia reversa, descompilar ou tentar obter o código-fonte, salvo quando permitido por lei;
+•	Remover ou alterar avisos de direitos autorais ou marcas existentes;
+•	Utilizar o aplicativo para atividades ilícitas, fraudulentas ou que violem direitos de terceiros;
+•	Comercializar, sublicenciar, alugar, emprestar ou ceder a licença do aplicativo.
+________________________________________
+4. Propriedade Intelectual
+Todos os direitos relacionados ao aplicativo, incluindo software, interface gráfica, identidade visual, logotipos, banco de dados, textos, documentos, código-fonte e demais elementos protegidos por propriedade intelectual pertencem exclusivamente ao desenvolvedor, sendo vedada qualquer utilização não autorizada.
+________________________________________
+5. Responsabilidade pelas Informações
+O usuário é integralmente responsável pelas informações inseridas no aplicativo.
+O desenvolvedor não realiza conferência, validação, certificação ou auditoria técnica dos dados registrados nem dos documentos gerados pelo usuário.
+________________________________________
+6. Armazenamento dos Dados
+Os dados são armazenados prioritariamente no dispositivo do usuário.
+Quando disponibilizada e utilizada pelo usuário, a sincronização em nuvem ocorrerá exclusivamente para armazenamento e recuperação das informações, conforme descrito na Política de Privacidade.
+O usuário permanece responsável pela realização de backups e pela preservação de seus dados.
+________________________________________
+7. Serviços de Terceiros
+O aplicativo pode utilizar serviços fornecidos por terceiros, incluindo, entre outros:
+•	Google Play Store;
+•	Google Play Billing;
+•	Firebase;
+•	Serviços de compartilhamento de arquivos;
+•	Serviços de armazenamento em nuvem;
+•	Outros serviços necessários ao funcionamento do aplicativo.
+O uso desses serviços também está sujeito aos respectivos termos de uso e políticas de privacidade de seus fornecedores.
+________________________________________
+8. Atualizações
+O desenvolvedor poderá disponibilizar atualizações, correções, melhorias, novos recursos e adequações legais sempre que considerar necessário.
+Algumas funcionalidades poderão depender da utilização da versão mais recente do aplicativo.
+________________________________________
+9. Assinaturas e Pagamentos
+Quando aplicável, as assinaturas são processadas exclusivamente pela Google Play Store.
+Renovações, cancelamentos, cobranças e pedidos de reembolso seguem as políticas da Google Play e a legislação aplicável.
+________________________________________
+10. Limitação de Garantias
+O aplicativo é fornecido "no estado em que se encontra" ("as is"), podendo receber atualizações e melhorias continuamente.
+Embora sejam empregados esforços para garantir estabilidade e qualidade, o desenvolvedor não garante que o aplicativo:
+•	Funcionará de forma ininterrupta;
+•	Atenderá a todas as necessidades específicas do usuário;
+•	Será compatível com a maioria dos dispositivos Android sem modificações existentes.
+________________________________________
+11. Limitação de Responsabilidade
+Na máxima extensão permitida pela legislação brasileira, o desenvolvedor não será responsável por prejuízos decorrentes de:
+•	Utilização inadequada do aplicativo;
+•	Informações incorretas inseridas pelo usuário;
+•	Perda de dados causada por falhas do dispositivo, desinstalação do aplicativo, ausência de backup ou ação do próprio usuário;
+•	Indisponibilidade de serviços de terceiros;
+•	Problemas decorrentes de falhas de internet, energia elétrica, servidores ou eventos de força maior.
+Esta cláusula não exclui nem limita responsabilidades que sejam irrenunciáveis nos termos da legislação brasileira.
+________________________________________
+12. Suspensão e Encerramento da Licença
+Esta licença permanecerá válida enquanto o usuário cumprir este contrato.
+O desenvolvedor poderá suspender ou encerrar a licença em caso de uso ilícito, fraude, violação destes termos ou utilização do aplicativo de forma incompatível com sua finalidade.
+O usuário poderá encerrar a licença a qualquer momento mediante a desinstalação do aplicativo.
+________________________________________
+13. Alterações deste Contrato
+Este EULA poderá ser alterado periodicamente para refletir mudanças legais, técnicas ou operacionais.
+A versão mais recente estará sempre disponível ao usuário e substituirá todas as versões anteriores.
+________________________________________
+14. Lei Aplicável
+Este contrato é regido pelas leis da República Federativa do Brasil.
+Quaisquer controvérsias decorrentes deste contrato serão interpretadas de acordo com a legislação brasileira, especialmente o Código Civil, o Código de Defesa do Consumidor, a Lei Geral de Proteção de Dados (Lei nº 13.709/2018) e demais normas aplicáveis.
+________________________________________
+15. Contato
+Em caso de dúvidas sobre este contrato ou sobre o aplicativo, entre em contato:
+Desenvolvedor: Marcio Mana
+E-mail: trimarcio@gmail.com
+.
+
+________________________________________
